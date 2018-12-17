@@ -1,6 +1,6 @@
 # Trading_with_momentum
 
- Method: porfolio trading strategy based on momentum. 
+ Method: porfolio trading strategy based on momentum.\n\n 
  Data: S&P500 monthly closing price
  
  
